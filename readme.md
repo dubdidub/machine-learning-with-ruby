@@ -44,6 +44,10 @@ the word using the `#RubyML` hash tag!
 
 <!-- doc -->
 
+## Tutorials
+
+Here some tutorials.
+
 ## Machine Learning Libraries
 
 [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) Algorithms
